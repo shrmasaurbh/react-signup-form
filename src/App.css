@@ -1,0 +1,19 @@
+.inputForm {
+}
+
+.inputField {
+  display: flex;
+  margin: 2px 10px;
+}
+
+label {
+  min-width: 150px;
+  width: 150px;
+  max-width: 150px;
+}
+
+.errMsg {
+  color: red;
+  font-style: italic;
+  font-size: 0.8em;
+}
